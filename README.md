@@ -7,5 +7,5 @@ Semplice progetto con l'implementazione in [GO](http://www.golang.org) dei Web T
 ## How to use it
 
 ```golang
-import "gitlab.com/fabiosebastiano/jwt-golang"
+import "github.com/fabiosebastiano/jwt-golang"
 ```
